@@ -3,7 +3,7 @@ Lets load a `PHP` or `HTML` file on default web browser. Simply load file or deb
 
 ## Requirements
 
-* `PHP` must be installed on your `PC` or `laptop`. `No needed especific version`
+* `PHP` must be installed on your `PC` or `laptop`. `No needed specific version`
 * `Xdebug` must be installed on `PHP extension folder`. https://xdebug.org/
 * `php-debug` package `could be` installed on your atom editor.https://atom.io/packages/php-debug
 
