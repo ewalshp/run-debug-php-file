@@ -1,0 +1,12 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+
+'menu': [{
+    label: 'Packages'
+    submenu: [
+      label: 'Run/Debug PHP file',
+      submenu: [
+        { label: 'Run', command: 'run-debug-php-file:run' }
+        { label: 'Debug', command: 'run-debug-php-file:debug' }
+      ]
+    ]
+  }]

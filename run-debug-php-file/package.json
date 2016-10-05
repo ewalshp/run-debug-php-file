@@ -1,0 +1,18 @@
+{
+  "name": "run-debug-php-file",
+  "main": "./lib/run-debug-php-file",
+  "version": "0.1.0",
+  "description": "Lets load a PHP or HTML file on default web browser. Simply load file or debugging with Xdebug and your favorite web browser.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": ["run-debug-php-file:run", "run-debug-php-file:debug"]
+  },
+  "repository": "https://github.com/atom/run-debug-php-file",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
